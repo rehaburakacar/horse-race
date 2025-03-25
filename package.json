@@ -8,8 +8,6 @@
     "build": "vue-tsc -b && vite build",
     "fix:prettier": "prettier --write .",
     "lint": "eslint --ext .ts,.vue",
-    "test": "vitest",
-    "test:ui": "vitest --ui",
     "preview": "vite preview"
   },
   "dependencies": {

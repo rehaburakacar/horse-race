@@ -1,0 +1,22 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --dark-blue: #1b1f2a;
+  --gold: #ffd700;
+  --red-dark: #c62828;
+  --red-dark-hover: #b71c1c;
+  --light-grey: #eaeaea;
+  --black: #000000;
+  --dark-green: #1b5e20;
+  --white: #ffffff;
+
+  background-color: var(--dark-green);
+  color: var(--gold);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
